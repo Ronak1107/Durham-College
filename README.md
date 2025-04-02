@@ -11,8 +11,9 @@ We will use Python's powerful pandas package to find a clean and pre-data set f
 
 ## Prerequisites
 
-1. Install Python (Download it from Anaconda)
+1. Install Python (Download Anaconda)
 2. Jupiter Notebook (Launch it for running and creating python file)
+3. create github account and create repository so I can add my explanation in Readmi.md file
 
 ## Install
 there are few libraries which is using in python.
