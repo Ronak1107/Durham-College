@@ -89,6 +89,10 @@ Lab1.ipnynb
 Durham College
 Professor Al-Trad Omar
 
+## References:
+1. template provided under this project
+2. [github.com](https://github.com/)
+
 
 
 
