@@ -81,7 +81,7 @@ to deploy this in live run it as a python script in jupyter notebook with having
 
 ## Author
 
-Ronak Kotadiya : inclass lab 1 data from data 1202(Data analysis tools analytics) https://github.com/Ronak1107/Durham-College/edit/main/README.md
+Ronak Kotadiya : inclass lab 1 data from data 1202(Data analysis tools analytics) [Ronak](https://github.com/Ronak1107)
 
 ## contributing
 
@@ -94,7 +94,7 @@ Lab1.ipnynb
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE.md file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://gist.github.com/PurpleBooth/LICENSE.md) file for details
 
 ## References:
 1. template provided under this project
