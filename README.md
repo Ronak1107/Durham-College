@@ -87,8 +87,8 @@ Lab1.ipnynb
 
 ## Acknowledgement
 
-Durham College
-Professor Al-Trad Omar
+1. Durham College
+2. Professor Al-Trad Omar
 
 ## References:
 1. template provided under this project
