@@ -23,6 +23,8 @@ there are few libraries which is using in python.
 
 here is example of panda library because I used panda as pd 
 
+To install libraries pip install pandas numpy
+
 ### loading dataset
 
 df = pd.read_csv("auto.csv")
@@ -79,7 +81,7 @@ to deploy this in live run it as a python script in jupyter notebook with having
 
 ## Author
 
-Ronak Kotadiya : inclass lab 1 data from data 1202(Data analysis tools analytics)
+Ronak Kotadiya : inclass lab 1 data from data 1202(Data analysis tools analytics) https://github.com/Ronak1107/Durham-College/edit/main/README.md
 
 ## contributing
 
@@ -89,6 +91,10 @@ Lab1.ipnynb
 
 1. Durham College
 2. Professor Al-Trad Omar
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE.md file for details
 
 ## References:
 1. template provided under this project
